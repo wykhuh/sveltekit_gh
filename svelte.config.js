@@ -11,8 +11,7 @@ const config = {
 			fallback: null
 		}),
 		paths: {
-			base: '/sveltekit_gh',
-			assets: 'https://wykhuh.github.io/sveltekit_gh'
+			base: '/sveltekit_gh'
 		}
 	}
 };
